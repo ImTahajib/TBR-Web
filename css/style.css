@@ -1,0 +1,27 @@
+h4{
+    color: white;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    background-image: url('../assets/background.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Oswald', sans-serif;
+}
+.info{
+    border: 3px ridge white initial;
+}
+.footer{
+    font-family: 'Ubuntu', sans-serif;
+}
+.contact-form{
+    font-size: large;
+}
+.member-count{
+    border-color: 1px solid white;
+    border-radius: 8px;
+}
+
+
